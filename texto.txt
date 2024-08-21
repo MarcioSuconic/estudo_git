@@ -1,3 +1,6 @@
 Olá texto novo.
 
 nova linha
+
+
+nova linha da nova branch - staging
